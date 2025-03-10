@@ -20,9 +20,3 @@ A coffee shop app for browsing, searching, and ordering coffee. Built with React
 - **Context API** - State management  
 - **React Native Splash Screen** - Smooth app launch experience  
 - **React Native Linear Gradient** - Beautiful UI effects  
-
-## 📦 Installation
-
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/coffee-shop-app.git
