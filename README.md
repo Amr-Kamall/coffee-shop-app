@@ -20,3 +20,10 @@ A coffee shop app for browsing, searching, and ordering coffee. Built with React
 - **Context API** - State management  
 - **React Native Splash Screen** - Smooth app launch experience  
 - **React Native Linear Gradient** - Beautiful UI effects  
+
+## 📸 Screenshots
+
+| Home Screen | Search Feature | Coffee Details |  
+|------------|--------------|----------------|  
+| ![Home](home.png) | ![Search](orders.png) | ![Details](coffeeDetails.png) |
+
