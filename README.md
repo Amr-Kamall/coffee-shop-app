@@ -23,7 +23,7 @@ A coffee shop app for browsing, searching, and ordering coffee. Built with React
 
 ## 📸 Screenshots
 
-| Home Screen | Search Feature | Coffee Details |  
+| Home Screen | orders history | Coffee Details |  
 |------------|--------------|----------------|  
 | ![Home](home.png) | ![Search](orders.png) | ![Details](coffeeDetails.png) |
 
