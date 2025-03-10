@@ -1,4 +1,4 @@
-# ☕ React Native Coffee Shop App
+# ☕ Coffee Shop App with React Native
 
 A coffee shop app for browsing, searching, and ordering coffee. Built with React Native, Context API, and React Navigation, featuring a shopping cart, favorites, and a smooth user experience.
 
